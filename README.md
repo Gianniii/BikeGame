@@ -32,7 +32,7 @@ Executing this program will launch the game in a pop up window.
 - **P** to pause (while in pause can move camera with arrows and place a solid crate with space(usefull for the last level))
 
 ## Dependencies
-Must have java installed.
+- Java SDK 9 or above
 
 ## Skills
 Java, JBox 2D, Object Oriented Programming, Game Design, simple 2D player animation.
