@@ -1,8 +1,9 @@
 # Bike Game Project, CS-112
-
+<p align="center">
 <img src="ReadMeImages\BikeGame1.PNG" alt="drawing" width="200"/>
 <img src="ReadMeImages\BikeGame2.PNG" alt="drawing" width="200"/>
 <img src="ReadMeImages\BikeGame5.PNG" alt="drawing" width="200"/>
+</p>
 <p align="center">
 <img src="ReadMeImages\BikeGame4.PNG" alt="drawing" width="250"/>
 <img src="ReadMeImages\BikeGame3.PNG" alt="drawing" width="250"/>
